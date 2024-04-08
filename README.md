@@ -1,1 +1,1 @@
-# card_component
+This project is my spin on the "Blog preview card" from Frontend Mentor, a delightful and challenging exercise in coding! It's all about crafting a responsive layout that adapts gracefully across different devices. I dived deep into CSS, playing around with boxShadow to get just the right depth and sharpness.
